@@ -1,0 +1,14 @@
+# Normalize line endings
+* text=auto
+
+# Unity YAML files
+*.unity text
+*.prefab text
+*.asset text
+
+# Binary files (to avoid conflicts)
+*.png binary
+*.jpg binary
+*.fbx binary
+*.mp3 binary
+*.wav binary
